@@ -23,4 +23,3 @@ def generate_qrcode(box_size, border, info, fill_color, background_color, output
 
 if __name__ == '__main__':
     generate_qrcode()
-
